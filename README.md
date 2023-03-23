@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lio2011
-- 👀 I’m interested in Machine Learning and UX design
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning and UX based projects
+- 👀 I’m interested in Blockchain development and UX design
+- 🌱 I’m currently learning Blockchain development
+- 💞️ I’m looking to collaborate on Blockchain development and UX based projects
 - 📫 How to reach me - sshouryan@gmail.com 
 
 <!---
